@@ -5,8 +5,7 @@ import requests
 import io
 
 # --- CONFIG ---
-SHEET_ID = "1-rg8dp5_PMRO83Z_sISVTRIbToui0ea1ZnAXsE_KHFA"
-SHEET_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=xlsx"
+SHEET_URL = f"https://docs.google.com/spreadsheets/d/1EuYn982EcfPugAWZEsx_Jg5lGjjttCiUGrv0Y5NCy_Y/edit?gid=0#gid=0"
 GROUPS = ["Control", "4 Magnets", "6 Magnets", "8 Magnets"]
 
 COLORS = {
